@@ -53,6 +53,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/myself-Fahim/myself-Fahim/output/snake.svg" alt="Snake animation" />
 
-###
+
