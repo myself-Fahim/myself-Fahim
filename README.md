@@ -13,14 +13,10 @@
 -  Bsc in Computer Science and Engineering
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on a Turf Booking System implementing multiple functionality and exploring new things
+- 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on a Turf Booking System implementing several functionalities.
 - I am also exploring Next.js currently.
 
 ## 📞 Connect With 
-<!-- <p> <a href="https://www.linkedin.com/in/fahim-ashraful/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<p> <a href="https://www.linkedin.com/in/fahim-ashraful/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> -->
-
- 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/fahim-ashraful/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/share/1AFjxcECd5/)
 
