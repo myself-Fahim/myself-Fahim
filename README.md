@@ -3,7 +3,7 @@
     src="https://i.ibb.co.com/8LSK49yy/Black-and-Yellow-Dark-Gamer-Survival-You-Tube-Banner.jpg"
     alt="GitHub banner"
     height="300"
-    width="80%"
+    width="90%"
   />
 </p>
 
