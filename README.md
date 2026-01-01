@@ -6,6 +6,12 @@
 - Building Scalable, High-Performance Web Applications for Growing Businesses
 - 🎓 Bsc in Computer Science and Engineering
 
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on a Turf Booking System implementing multiple functionality and exploring new things
+- I also exploring Next.js currently.
+
+
+
 
 
 
