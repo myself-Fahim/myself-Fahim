@@ -1,9 +1,10 @@
-<img
-src="https://i.ibb.co.com/8LSK49yy/Black-and-Yellow-Dark-Gamer-Survival-You-Tube-Banner.jpg" alt="Mokkapps GitHub README header image"
-alt="Mokkapps GitHub README header image"
- height="500"
- />
-
+<p align="center">
+  <img 
+    src="https://i.ibb.co.com/8LSK49yy/Black-and-Yellow-Dark-Gamer-Survival-You-Tube-Banner.jpg"
+    alt="GitHub banner"
+    height="300"
+  />
+</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Mern Stack Developer | Problem Solver
