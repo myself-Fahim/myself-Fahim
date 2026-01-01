@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co.com/8LSK49yy/Black-and-Yellow-Dark-Gamer-Survival-You-Tube-Banner.jpg" alt="Mokkapps GitHub README header image">
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
