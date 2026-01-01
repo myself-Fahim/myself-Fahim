@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAG9F-AMKV8/XzSw4E9fwXG_bhH5fNZ8PQ/edit" alt="Mokkapps GitHub README header image">
+
 
 ###
 
