@@ -1,4 +1,4 @@
-<img align="right" height="180" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
+<img src="https://www.canva.com/design/DAG9F-AMKV8/XzSw4E9fwXG_bhH5fNZ8PQ/edit" alt="Mokkapps GitHub README header image">
 
 ###
 
